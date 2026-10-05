@@ -1,0 +1,4 @@
+flask
+python-pkcs11
+cryptography
+waitress
